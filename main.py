@@ -22,7 +22,7 @@ while True:
 
     # Check for tab key press
     if keyboard.is_pressed("tab"):  # temp capture
-        # Allow the user to input a name for the image
+        # Temp image name
         image_name = "picture.jpg"
 
         # Specify the path where the image will be saved
